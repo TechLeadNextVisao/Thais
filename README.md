@@ -1,4 +1,4 @@
 Thais
 =====
 
-This repository is for Thais project
+This repository is for Thais project.
